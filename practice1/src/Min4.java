@@ -1,4 +1,4 @@
-package algorithm.temp;
+package algorithm.practice1.src;
 
 public class Min4 {
 

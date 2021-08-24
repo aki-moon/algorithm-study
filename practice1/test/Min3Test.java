@@ -1,8 +1,10 @@
-package algorithm.temp;
+package algorithm.practice1.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+
+import algorithm.practice1.src.Min3;
 
 class Min3Test {
 
